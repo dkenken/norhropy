@@ -252,7 +252,7 @@ a {
 }
 
 .btn--accent:hover {
-  background: #ec3000;
+  background: blue;
 }
 
 .btn--outline {
@@ -551,7 +551,7 @@ a {
 }
 
 .callout--primary {
-  background: var(--color-primary);
+  background: #ec3000;
   color: #fff;
 }
 
